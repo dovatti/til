@@ -17,4 +17,4 @@ These are things that don't really warrant a full blog post. I've discovered thi
 
 &copy; 2022 Mattia Dovier
 
-This repository is licensed under the MIT license. See `LICENSE` for details.
+This repository is licensed under the MIT license. See [`LICENSE`](LICENSE.md) for details.
